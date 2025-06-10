@@ -1,0 +1,10 @@
+แอปพลิเคชันหาบ้านให้สัตว์จรจัด
+Home Stray
+
+Abstract
+
+	Nowadays, stray animals are  a major issue in Thailand. And it appears that this issue will only worsen in the future. Even though the foundation and community have gotten involved in helping with the issue. As a result, we acknowledge this issue and wish to contribute to solving this problem by utilizing technology.
+
+	The goal of this project is to develop an Android application for the people who want to adopt the stray animal by using the Model application Tinder but instead of finding love, the application will help you find pets in a shelter that is in need of a home nearby the user.
+
+Keywords: Stray Animal, Tinder, Foundation, Find Home
