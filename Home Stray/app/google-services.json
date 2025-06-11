@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "261176608919",
+    "firebase_url": "https://homestray-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "homestray",
+    "storage_bucket": "homestray.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261176608919:android:0d15e9bd7f7e8d18e901d2",
+        "android_client_info": {
+          "package_name": "com.example.homestray"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd66EsbY8ybB5ETfRM9jzECzOF4Mx0GkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

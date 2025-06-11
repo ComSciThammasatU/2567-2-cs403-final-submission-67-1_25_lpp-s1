@@ -1,0 +1,148 @@
+<resources>
+    <string name="star">*</string>
+
+    <!--Image Description-->
+    <string name="logo">Temp Logo</string>
+    <string name="insert_img">Insert Image</string>
+    <string name="profile_img">Profile Image</string>
+
+    <!--Button-->
+    <string name="submit">Submit</string>
+    <string name="adoption">Begin Adoption Process</string>
+    <string name="btn_adoption">Start Adoption</string>
+    <string name="btn_breed">Select Breed</string>
+    <string name="btn_create">Create Animal</string>
+    <string name="btn_save">Save</string>
+
+    <!--Main Page-->
+    <string name="app_name" translatable="false">Home Stray</string>
+    <string name="tap_login">Tap to Login</string>
+
+    <!--Menu Page-->
+    <string name="nav_swipe">Swipe Page</string>
+    <string name="nav_liked">Liked Animal</string>
+    <string name="nav_history">User History</string>
+    <string name="nav_preference">User Preference</string>
+    <string name="nav_search">Search Animal</string>
+    <string name="nav_create_animal_profile">Create Animal Profile</string>"
+    <string name="open">Open Navigation Drawer</string>
+    <string name="close">Close Navigation Drawer</string>
+    <string name="nav_logout">Logout</string>
+
+
+    <!--Login Page-->
+    <string name="login_user_name">Username</string>
+    <string name="login_hint_username">Enter your Username</string>
+    <string name="login_user_password">Password</string>
+    <string name="login_hint_password">Enter your Password</string>
+    <string name="login_signup"><u>Sign up?</u></string>
+    <string name="login_forget_password"><u>Forget Password?</u></string>
+    <string name="login_text_button">Login</string>
+
+    <!--Signup Page-->
+    <string name="signup_user_name">Username</string>
+    <string name="signup_hint_username">Enter your Username</string>
+    <string name="signup_email">Email</string>
+    <string name="signup_hint_email">Enter your Email</string>
+    <string name="signup_user_password">Password</string>
+    <string name="signup_hint_password">Enter your Password</string>
+    <string name="signup_already">Already have an account?</string>
+    <string name="signup_login"><u>Login</u></string>
+    <string name="signup_text_button">Signup</string>
+
+
+    <!--Swipe Page-->
+    <string name="animal_name">CoCo, 8 Years Old</string>
+    <string name="animal_distance">1.6 km near you</string>
+    <string name="animal_near">see more</string>
+    <string name="animal_detail_behavior">Behavior: Eat a lot</string>
+    <string name="animal_detail_breed">Breed : Thai</string>
+    <string name="animal_detail_color">Color : Brown</string>
+    <string name="animal_detail_medical">Medical History: Vaccinated, Neutered</string>
+    <string name="animal_image">Animal Image</string>
+    <string name="btn_left">Not Like</string>
+    <string name="btn_right">Like</string>
+    <string name="menu_btn">Menu</string>
+
+    <!--Open Profile Page-->
+    <string name="animal_detail_sickness">Sickness: None</string>
+    <string name="animal_detail_foundation">Foundation: A</string>
+    <string name="animal_detail_type">Type : Indoor Pet</string>
+    <string name="animal_detail_contact">Contact : 0912345678</string>
+    <string name="animal_caution">Note: This step is not the final step in the pet adoption process. The decision is ultimately made by the foundation.</string>
+
+    <!--User History Page-->
+    <string name="user_history_insert_profile">INSERT Profile</string>
+    <string name="user_history_title">User Information</string>
+    <string name="user_history_edot">Edit User Information</string>
+    <string name="user_history_first_name">First Name : </string>
+    <string name="user_history_first_name_edt">John</string>
+    <string name="user_history_last_name">Last Name : </string>
+    <string name="user_history_last_name_edt">Doe</string>
+    <string name="user_history_phone">Phone Number : </string>
+    <string name="user_history_phone_edt">08x-xxx-xxxx</string>
+    <string name="user_history_line">Line ID : </string>
+    <string name="user_history_line_edt">John1234</string>
+    <string name="user_history_salary">Salary : </string>
+    <string name="user_history_salary_edt">9000</string>
+    <string name="user_history_free_time">How much Free Time Per Day: </string>
+    <string name="user_history_free_time_edt">4 Hour</string>
+    <string name="user_history_consent">Family Consent : </string>
+    <string name="user_history_consent_edt">Consented</string>
+    <string name="user_history_address">Address : </string>
+    <string name="user_history_address_edt">House No./Alley/Road/Subdistrict/District/Province/Postal Code</string>
+    <string name="user_history_insert_picture">INSERT PICTURE</string>
+    <string name="user_history_insert_home_picture">INSERT Home Picture : </string>
+    <string name="user_history_home_picture">Home Picture : </string>
+    <string name="user_history_warning">Please fill your information in all field that have *</string>
+
+
+    <!--Preference Page-->
+    <string name="preference_title">Select your Preference</string>
+    <string name="preference_animal">Type of Pets</string>
+    <string name="preference_breed">Breed Wanted</string>
+    <string name="preference_age">Age</string>
+    <string name="preference_age_baby">Baby(Less than 1 Year)</string>
+    <string name="preference_age_young">Young(1–3 Years)</string>
+    <string name="preference_age_adult">Adult(4–7 Years)</string>
+    <string name="preference_age_old">Old(8+ Years)</string>
+    <string name="preference_crippled">Interested in Crippled Animal</string>
+    <string name="preference_neutered">Neutered</string>
+    <string name="preference_sick">Interested in Sick Animal</string>
+    <string name="preference_range">Range of Search : </string>
+
+    <!--Create Animal Profile-->
+    <string name="create_animal_title">Create Animal Profile</string>
+    <string name="edit_animal_profile">Edit Animal Profile</string>
+    <string name="create_animal_name">Name : </string>
+    <string name="create_animal_name_edt">Cookie</string>
+    <string name="create_animal_age">Age (Year/ 0 if baby) : </string>
+    <string name="create_animal_age_edt">6</string>
+    <string name="create_animal_breed">Breed : </string>
+    <string name="create_animal_breed_edt">Poodle</string>
+    <string name="create_animal_habit">Habits : </string>
+    <string name="create_animal_habit_edt">Cheerful</string>
+    <string name="create_animal_color">Color : </string>
+    <string name="create_animal_color_edt">White</string>
+    <string name="create_animal_medical">Medical History : </string>
+    <string name="create_animal_medical_edt">Neutering, Vaccinated (If Nothing Type None)</string>
+    <string name="create_animal_sickness">Sickness : </string>
+    <string name="create_animal_sickness_edt">Diabetes (If healthy type None)</string>
+    <string name="create_animal_foundation">Foundation Name : </string>
+    <string name="create_animal_foundation_edt">Pet4Adoption</string>
+    <string name="create_animal_address">Address : </string>
+    <string name="create_animal_address_edt">House No./Alley/Road/Subdistrict/District/Province/Postal Code</string>
+    <string name="create_animal_type">Animal Type : </string>
+    <string name="create_animal_contact">Contact : </string>
+    <string name="create_animal_contact_edt">08x-xxx-xxxx</string>
+    <string name="create_animal_history">History : </string>
+    <string name="create_animal_history_edt">Strayed, Found near 7–11</string>
+
+    <string name="adopter">Adopter : </string>
+
+    <string-array name="animal_type">
+        <item>Dog</item>
+        <item>Cat</item>
+    </string-array>
+
+</resources>

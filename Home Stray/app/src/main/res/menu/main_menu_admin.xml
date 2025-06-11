@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <!--Navigation Drawer Items-->
+    <group
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_create_animal_profile"
+            android:title="@string/nav_create_animal_profile"
+            android:icon="@drawable/pawprint" />
+
+        <item
+            android:id="@+id/nav_logout"
+            android:title="@string/nav_logout"
+            android:icon="@drawable/baseline_logout_24" />
+
+    </group>
+
+    <!--Need to add setting and Logout button here-->
+
+</menu>
