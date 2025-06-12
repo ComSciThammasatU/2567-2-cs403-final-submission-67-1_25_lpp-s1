@@ -190,10 +190,6 @@ git clone https://github.com/ComSciThammasatU/2567-2-cs403-final-submission-67-1
 <p align="center">
     <img src="https://drive.google.com/uc?export=view&id=1aJ9zE7IxwafYYzAamzslHLDhzDQL4EcN" width="300">
 </p>
-- หน้าแก้ไขประวัติผู้ใช้ ไว้แก้ไขประวัติข้อมูลส่วนตัวของผู้ใช้
-<p align="center">
-    <img src="https://drive.google.com/uc?export=view&id=1hTc1xOa5M2rHTKnxnIpkJF7nAHYElKF_" width="300">
-</p>
 
 # ⚠หมายเหตุ
 Use case ในส่วนขั้นตอนอุปการะสัตว์ยังทำไม่สำเร็จเนื่องจากทางผู้จัดทำจัดการเวลาได้ไม่ดีทำให้ทางโปรแกรมยังไม่เสร็จสมบูรณ์ตามที่ตั้งเป้าหมายไว้
