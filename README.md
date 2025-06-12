@@ -123,5 +123,15 @@ git clone https://github.com/ComSciThammasatU/2567-2-cs403-final-submission-67-1
 - Copy User Id จากนั้นนำมาใส่ใน Android Studio ที่ gradle.properties รวมถึง API ต่างๆของ Google Cloud และ ImgBB ที่บันทึกไว้จากขั้นตอนก่อนหน้า
 ![Put API In Android Studio](https://drive.google.com/uc?export=view&id=1lT7YqPYBea5u_JOlHVivEHW4pjFTTTwK)
 - เสร็จสิ้นการทำเตรียมความพร้อม
+# ขั้นตอนที่ 4 การรันแอปพลิเคชัน
+## การรันทดสอบแอปพลิเคชัน
+**1. รันผ่าน Virtual Device ใน Android Studio**
+จากขั้นตอนที่ 2.2 ให้ทำการกด Run App ผ่านตัวโปรแกรม Android Studio ได้เลย
+**2. รันผ่านโทรศัพท์ Android**
+- ให้เข้าไปที่ Setting แล้วเลื่อนลงไปข้างล่างจนกว่าจะเห็น About Phone
+- กดเข้าไปแล้วเลือก Software information
+- กดที่ Build number 5 - 6 ครั้งหรือหลายๆครั้งติดต่อกัน
+- กดยืนยันเปิด Developer Mode แล้วให้ไปที่หน้า Developer options ที่จะขึ้นมาใหม่หลังมีการเปิด Developer mode
+- เลื่อนไปที่หัวข้อ Debugging จากนั้นทำการเปิด USB debugging หรือ Wireless debugging เพื่อทำการเชื่อมเข้ากับ Android Studio
 # ⚠หมายเหตุ
 Use case ในส่วนขั้นตอนอุปการะสัตว์ยังทำไม่สำเร็จเนื่องจากทางผู้จัดทำจัดการเวลาได้ไม่ดีทำให้ทางโปรแกรมยังไม่เสร็จสมบูรณ์ตามที่ตั้งเป้าหมายไว้
