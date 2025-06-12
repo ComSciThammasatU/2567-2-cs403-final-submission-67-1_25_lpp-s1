@@ -133,5 +133,70 @@ git clone https://github.com/ComSciThammasatU/2567-2-cs403-final-submission-67-1
 - กดที่ Build number 5 - 6 ครั้งหรือหลายๆครั้งติดต่อกัน
 - กดยืนยันเปิด Developer Mode แล้วให้ไปที่หน้า Developer options ที่จะขึ้นมาใหม่หลังมีการเปิด Developer mode
 - เลื่อนไปที่หัวข้อ Debugging จากนั้นทำการเปิด USB debugging หรือ Wireless debugging เพื่อทำการเชื่อมเข้ากับ Android Studio
+
+# วิธีการใช้งานแอปพลิเคชัน
+**ส่วนของ User**
+- หน้า Register ไว้สมัครสมาชิกเข้าสู่ระบบ
+<p align="center">
+    <img src="https://drive.google.com/uc?export=view&id=1Iwgqbu_Mz79JV31LFc1G8K4w8lfALSbq" width="300">
+</p>
+- หน้า Login ไว้เข้าสู่ระบบ
+<p align="center">
+    <img src="https://drive.google.com/uc?export=view&id=12LkPY_wYk7stTNxn1F9qqMGeJfnJBolS" width="300">
+</p>
+- หน้ากรอกประวัติส่วนตัว ไว้กรอกประวัติส่วนตัวผู้ใช้เมื่อเข้าสู่แอปครั้งแรก
+<p align="center">
+    <img src="https://drive.google.com/uc?export=view&id=1b4RMePBMn_7YK_6S0uNR-Tp3pgLdeLgp" width="300">
+</p>
+- หน้าแสดงประวัติผู้ใช้ ไว้แสดงประวัติข้อมูลส่วนตัวของผู้ใช้
+<p align="center">
+    <img src="https://drive.google.com/uc?export=view&id=1hnK9jYY20earA-131VPSUBZk_Zyx863s" width="300">
+</p>
+- หน้าแก้ไขประวัติผู้ใช้ ไว้แก้ไขประวัติข้อมูลส่วนตัวของผู้ใช้
+<p align="center">
+    <img src="https://drive.google.com/uc?export=view&id=1hTc1xOa5M2rHTKnxnIpkJF7nAHYElKF_" width="300">
+</p>
+- หน้า Preference ไว้เก็บข้อมูลความชอบสัตว์ของผู้ใช้
+<p align="center">
+    <img src="https://drive.google.com/uc?export=view&id=1Lp6qszNE2qHmqPA5McLVh6dlii8JjI84" width="300">
+</p>
+- หน้าหลักไว้ปัด Profile สัตว์หาสัตว์ที่ถูกใจ
+<p align="center">
+    <img src="https://drive.google.com/uc?export=view&id=1g4WIOipjBbR4iGI7B9EOAWec8hQbsAR4" width="300">
+</p>
+- หน้า Liked Animal ไว้ดูสัตว์ที่ผู้ใช้เคยกดถูกใจ
+<p align="center">
+    <img src="https://drive.google.com/uc?export=view&id=1LjD4DvOM0NBIm3q0TGOm3Jg-O9LPIMvK" width="300">
+</p>
+- หน้าแสดงข้อมูลสัตว์ ไว้ดูข้อมูลรายละเอียดของสัตว์ที่ผู้ใช้ถูกใจ
+<p align="center">
+    <img src="https://drive.google.com/uc?export=view&id=1LjD4DvOM0NBIm3q0TGOm3Jg-O9LPIMvK" width="300">
+</p>
+
+**ส่วนของ Admin**
+- หน้าหลักของ Admin ไว้ดูสัตว์ที่อยู่ในระบบ
+<p align="center">
+    <img src="https://drive.google.com/uc?export=view&id=17PW6oM0FBvW1MKcPLDR5VVFhyX9YItg4" width="300">
+</p>
+- หน้าสร้าง Profile สัตว์ ไว้สร้างสัตว์เข้าไปในระบบ
+<p align="center">
+    <img src="https://drive.google.com/uc?export=view&id=1LdhB-ZXcFaDNk1Bwrf-zTroadvnmpGVN" width="300">
+</p>
+- หน้าแสดงข้อมูลสัตว์ ไว้แสดงข้อมูลสัตว์ที่สร้าง โดยมีปุ่มไว้ลบและแก้ไขข้อมูลสัตว์
+<p align="center">
+    <img src="https://drive.google.com/uc?export=view&id=1fiaXrsHXpQn61NpLGb4sDbxK6YlhCb3L" width="300">
+</p>
+- หน้าแก้ไขข้อมูลสัตว์ ไว้แก้ไขข้อมูลสัตว์ที่เคยสร้าง โดยมีหน้าตาเหมือนกับหน้าสร้าง Profile สัตว์
+<p align="center">
+    <img src="https://drive.google.com/uc?export=view&id=1aJ9zE7IxwafYYzAamzslHLDhzDQL4EcN" width="300">
+</p>
+- หน้าแก้ไขประวัติผู้ใช้ ไว้แก้ไขประวัติข้อมูลส่วนตัวของผู้ใช้
+<p align="center">
+    <img src="https://drive.google.com/uc?export=view&id=1hTc1xOa5M2rHTKnxnIpkJF7nAHYElKF_" width="300">
+</p>
+
 # ⚠หมายเหตุ
 Use case ในส่วนขั้นตอนอุปการะสัตว์ยังทำไม่สำเร็จเนื่องจากทางผู้จัดทำจัดการเวลาได้ไม่ดีทำให้ทางโปรแกรมยังไม่เสร็จสมบูรณ์ตามที่ตั้งเป้าหมายไว้
+
+# ช่องทางติดต่อ
+หาก Application มีข้อผิดพลาดตรงไหนสามารถติดต่อได้ผ่าน Email : visarut.poo@dome.tu.ac.th หรือผ่านช่องทางทีม
