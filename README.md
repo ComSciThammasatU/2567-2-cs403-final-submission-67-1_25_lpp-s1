@@ -125,8 +125,8 @@ git clone https://github.com/ComSciThammasatU/2567-2-cs403-final-submission-67-1
 - เสร็จสิ้นการทำเตรียมความพร้อม
 # ขั้นตอนที่ 4 การรันแอปพลิเคชัน
 ## การรันทดสอบแอปพลิเคชัน
-**1. รันผ่าน Virtual Device ใน Android Studio**
-จากขั้นตอนที่ 2.2 ให้ทำการกด Run App ผ่านตัวโปรแกรม Android Studio ได้เลย
+**1. รันผ่าน Virtual Device ใน Android Studio**\
+จากขั้นตอนที่ 2.2 ให้ทำการกด Run App ผ่านตัวโปรแกรม Android Studio ได้เลย\
 **2. รันผ่านโทรศัพท์ Android**
 - ให้เข้าไปที่ Setting แล้วเลื่อนลงไปข้างล่างจนกว่าจะเห็น About Phone
 - กดเข้าไปแล้วเลือก Software information
